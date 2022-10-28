@@ -639,6 +639,34 @@
         {
           "authors" : [
             {
+              "name" : "Alessandra Pereyra",
+              "url" : "https:\/\/github.com\/alessandrapereyra"
+            }
+          ],
+          "createdAt" : "2022-09-08T18:50:04-05:00",
+          "currentDirectoryPath" : null,
+          "description" : "Automatically take the content found in the clipboard and turn it into Markdown",
+          "filename" : "clipboard-to-markdown.js",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📋"
+          },
+          "identifier" : "f45f6235a350476d4f5f896a12250d19",
+          "isTemplate" : false,
+          "language" : "node",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Conversions",
+          "path" : "conversions\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Clipboard to Markdown",
+          "updatedAt" : "2022-09-08T18:50:04-05:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "quelhasu",
               "url" : "https:\/\/github.com\/quelhasu"
             }
@@ -1181,6 +1209,34 @@
           "schemaVersion" : 1,
           "title" : "Screenshot Website",
           "updatedAt" : "2020-11-28T13:47:03-05:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Levi Nelson",
+              "url" : "https:\/\/github.com\/LeviticusNelson"
+            }
+          ],
+          "createdAt" : "2022-09-20T11:37:44-07:00",
+          "currentDirectoryPath" : null,
+          "description" : "Open new window in default browser",
+          "filename" : "new-browser-window.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🌐"
+          },
+          "identifier" : "982df81504688c40ed7c99f11913cdd2",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "compact",
+          "needsConfirmation" : null,
+          "packageName" : "Browser Utils",
+          "path" : "browsing\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "New Browser Window",
+          "updatedAt" : "2022-09-20T11:37:44-07:00"
         },
         {
           "authors" : [
@@ -12006,6 +12062,34 @@
         {
           "authors" : [
             {
+              "name" : "Alessandra Pereyra",
+              "url" : "https:\/\/github.com\/alessandrapereyra"
+            }
+          ],
+          "createdAt" : "2022-09-09T11:36:33-05:00",
+          "currentDirectoryPath" : null,
+          "description" : "Open 17TRACK with the tracking code found in the clipboard",
+          "filename" : "clipboard-to-17track.js",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🚚"
+          },
+          "identifier" : "5bf7134b1d8dfeca8b30b6b3a598f247",
+          "isTemplate" : false,
+          "language" : "node",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Web Searches",
+          "path" : "web-searches\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Clipboard to 17TRACK",
+          "updatedAt" : "2022-09-09T11:36:33-05:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Wade Garrett",
               "url" : "https:\/\/wadegarrett.com"
             }
@@ -13926,6 +14010,264 @@
           ]
         },
         {
+          "name" : "GoodLinks",
+          "path" : "goodlinks",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Show Read list in the GoodLinks app",
+              "filename" : "goodlinks-read-list.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "c0796027794a07c76f5eb52bab4e8d39",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Show Read List",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Open a link in the GoodLinks app",
+              "filename" : "goodlinks-open-link.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "3636d0d2ff5bb61acff5b577e364122a",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Open Link",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Show Untagged list in the GoodLinks app",
+              "filename" : "goodlinks-untagged-list.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "c80ffd45f9345adbcc18b9140d865da0",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Show Untagged List",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Show Unread list in the GoodLinks app",
+              "filename" : "goodlinks-unread-list.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "bfd473a3c237f50761e5716e9abee708",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Show Unread List",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Open the last unread link in the GoodLinks app",
+              "filename" : "goodlinks-last-unread-link.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "574ebc7209ea95507f347597e25cc284",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Open Last Unread Link",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Show Starred list in the GoodLinks app",
+              "filename" : "goodlinks-starred-list.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "1b30afbd9d13fa4c0361905818295682",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Show Starred List",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Saves a new link to GoodLinks",
+              "filename" : "goodlinks-save-link.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "3a5576e914a31aadb395f733a49f047d",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Save Link",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Open a random unread link in the GoodLinks app",
+              "filename" : "goodlinks-random-unread-link.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "b3f2decfb875757a8a2bcebf5904a88f",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Open Random Unread Link",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Filip Chabik",
+                  "url" : "https:\/\/github.com\/hadret"
+                }
+              ],
+              "createdAt" : "2022-09-21T21:19:09+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Show links tagged with the specified tag in the GoodLinks app",
+              "filename" : "goodlinks-tagged-links.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/goodlinks.png"
+              },
+              "identifier" : "10a6aa033cfb6122dfbbe70eaa5ea8e8",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "GoodLinks",
+              "path" : "apps\/goodlinks\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Show Tag",
+              "updatedAt" : "2022-09-21T21:19:09+02:00"
+            }
+          ]
+        },
+        {
           "name" : "Terminal Translate",
           "path" : "terminal-translate",
           "scriptCommands" : [
@@ -14570,6 +14912,152 @@
           ]
         },
         {
+          "name" : "Baremetrics",
+          "path" : "baremetrics",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Valentin Chrétien",
+                  "url" : "https:\/\/github.com\/valentinchrt"
+                }
+              ],
+              "createdAt" : "2022-09-15T11:09:04+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Display Average revenue per user (ARPU)",
+              "filename" : "get-arpu.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/baremetrics.png"
+              },
+              "identifier" : "61cffadab08d5776aa9c0cdba919f9b4",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "inline",
+              "needsConfirmation" : null,
+              "packageName" : "Baremetrics",
+              "path" : "apps\/baremetrics\/",
+              "refreshTime" : "1h",
+              "schemaVersion" : 1,
+              "title" : "Average Revenue Per User",
+              "updatedAt" : "2022-09-15T11:09:04+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Valentin Chrétien",
+                  "url" : "https:\/\/github.com\/valentinchrt"
+                }
+              ],
+              "createdAt" : "2022-09-15T11:09:04+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Display Annual Recurring Revenue (ARR)",
+              "filename" : "get-arr.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/baremetrics.png"
+              },
+              "identifier" : "7eb95607eb6cb96ad5f62844ccd08157",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "inline",
+              "needsConfirmation" : null,
+              "packageName" : "Baremetrics",
+              "path" : "apps\/baremetrics\/",
+              "refreshTime" : "1h",
+              "schemaVersion" : 1,
+              "title" : "Annual Recurring Revenue",
+              "updatedAt" : "2022-09-15T11:09:04+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Valentin Chrétien",
+                  "url" : "https:\/\/github.com\/valentinchrt"
+                }
+              ],
+              "createdAt" : "2022-09-15T11:09:04+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Display Lifetime Value (LTV)",
+              "filename" : "get-ltv.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/baremetrics.png"
+              },
+              "identifier" : "28fcd48e5fdd0d94cd0fc0caa85ec6f7",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "inline",
+              "needsConfirmation" : null,
+              "packageName" : "Baremetrics",
+              "path" : "apps\/baremetrics\/",
+              "refreshTime" : "1h",
+              "schemaVersion" : 1,
+              "title" : "Lifetime Value",
+              "updatedAt" : "2022-09-15T11:09:04+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Valentin Chrétien",
+                  "url" : "https:\/\/github.com\/valentinchrt"
+                }
+              ],
+              "createdAt" : "2022-09-15T11:09:04+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Display Monthly Recurring Revenue (MRR)",
+              "filename" : "get-mrr.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/baremetrics.png"
+              },
+              "identifier" : "c93a6f26b13a627e732b5ca104457e35",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "inline",
+              "needsConfirmation" : null,
+              "packageName" : "Baremetrics",
+              "path" : "apps\/baremetrics\/",
+              "refreshTime" : "1h",
+              "schemaVersion" : 1,
+              "title" : "Monthly Recurring Revenue",
+              "updatedAt" : "2022-09-15T11:09:04+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Valentin Chrétien",
+                  "url" : "https:\/\/github.com\/valentinchrt"
+                }
+              ],
+              "createdAt" : "2022-09-15T11:09:04+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Display Revenue Dashboard",
+              "filename" : "simple-dashboard.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/baremetrics.png"
+              },
+              "identifier" : "8cff2dce2132b4b23e143ff7dfda31f8",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "inline",
+              "needsConfirmation" : null,
+              "packageName" : "Baremetrics",
+              "path" : "apps\/baremetrics\/",
+              "refreshTime" : "1h",
+              "schemaVersion" : 1,
+              "title" : "Revenue",
+              "updatedAt" : "2022-09-15T11:09:04+02:00"
+            }
+          ]
+        },
+        {
           "name" : "Message",
           "path" : "Message",
           "scriptCommands" : [
@@ -14877,6 +15365,40 @@
               "schemaVersion" : 1,
               "title" : "Disconnect \/ Cancel",
               "updatedAt" : "2021-06-14T20:14:26+02:00"
+            }
+          ]
+        },
+        {
+          "name" : "Downie",
+          "path" : "downie",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Clu Soh",
+                  "url" : "https:\/\/twitter.com\/designedbyclu"
+                }
+              ],
+              "createdAt" : "2022-06-14T15:34:34+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "Download video from Pasteboard link",
+              "filename" : "download-video.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/downie.png"
+              },
+              "identifier" : "2003cce30b2c40d492dfd7a17e5afeb3",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Downie",
+              "path" : "apps\/downie\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Download Video",
+              "updatedAt" : "2022-08-25T12:14:46+08:00"
             }
           ]
         },
@@ -15371,7 +15893,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Connect to Location",
-              "updatedAt" : "2021-03-25T22:10:33+00:00"
+              "updatedAt" : "2022-08-25T19:51:18+00:00"
             },
             {
               "authors" : [
@@ -15427,7 +15949,7 @@
               "refreshTime" : "5m",
               "schemaVersion" : 1,
               "title" : "Mullvad Status",
-              "updatedAt" : "2021-03-25T22:10:33+00:00"
+              "updatedAt" : "2022-08-25T19:51:18+00:00"
             },
             {
               "authors" : [
@@ -15455,7 +15977,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Reconnect",
-              "updatedAt" : "2021-03-25T22:10:33+00:00"
+              "updatedAt" : "2022-08-25T19:51:18+00:00"
             },
             {
               "authors" : [
@@ -15483,7 +16005,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Connect",
-              "updatedAt" : "2021-03-25T22:10:33+00:00"
+              "updatedAt" : "2022-08-25T19:51:18+00:00"
             }
           ]
         },
@@ -19614,6 +20136,34 @@
           "schemaVersion" : 1,
           "title" : "Word Count",
           "updatedAt" : "2022-01-29T12:34:13-05:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Alessandra Pereyra",
+              "url" : "https:\/\/github.com\/alessandrapereyra"
+            }
+          ],
+          "createdAt" : "2022-09-04T19:45:53-05:00",
+          "currentDirectoryPath" : null,
+          "description" : "Directly use macOS Dictionary",
+          "filename" : "dictionary-lookup.swift",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "📖"
+          },
+          "identifier" : "be57af80902c33cee913774b6e58d678",
+          "isTemplate" : false,
+          "language" : "swift",
+          "mode" : "compact",
+          "needsConfirmation" : null,
+          "packageName" : "Writing",
+          "path" : "writing\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Dictionary Lookup",
+          "updatedAt" : "2022-09-05T11:33:53+00:00"
         }
       ]
     },
@@ -21465,6 +22015,34 @@
               "schemaVersion" : 1,
               "title" : "Previous Track",
               "updatedAt" : "2022-02-01T14:38:40+00:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Cebrail AKTAS",
+                  "url" : "https:\/\/github.com\/AktasC"
+                }
+              ],
+              "createdAt" : "2022-09-12T17:06:01+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Play\/Pause Tidal",
+              "filename" : "tidal.applescript",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/tidal-logo.png"
+              },
+              "identifier" : "ee85b0d540c79e75859c0753aadee02a",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Tidal",
+              "path" : "media\/tidal\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Toggle Play\/Pause",
+              "updatedAt" : "2022-09-13T08:16:43+00:00"
             }
           ]
         }
@@ -21473,19 +22051,9 @@
   ],
   "languages" : [
     {
-      "displayName" : "Swift",
-      "icon" : "icon-swift.png",
-      "name" : "swift"
-    },
-    {
-      "displayName" : "Python",
-      "icon" : "icon-python.png",
-      "name" : "python"
-    },
-    {
-      "displayName" : "Ruby",
-      "icon" : "icon-ruby.png",
-      "name" : "ruby"
+      "displayName" : "Bash",
+      "icon" : "icon-bash.png",
+      "name" : "bash"
     },
     {
       "displayName" : "Node",
@@ -21493,19 +22061,29 @@
       "name" : "node"
     },
     {
-      "displayName" : "Bash",
-      "icon" : "icon-bash.png",
-      "name" : "bash"
+      "displayName" : "Swift",
+      "icon" : "icon-swift.png",
+      "name" : "swift"
+    },
+    {
+      "displayName" : "Ruby",
+      "icon" : "icon-ruby.png",
+      "name" : "ruby"
     },
     {
       "displayName" : "AppleScript",
       "icon" : "icon-applescript.png",
       "name" : "applescript"
+    },
+    {
+      "displayName" : "Python",
+      "icon" : "icon-python.png",
+      "name" : "python"
     }
   ],
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 747,
-  "updatedAt" : "2022-08-19T10:28:28Z"
+  "totalScriptCommands" : 767,
+  "updatedAt" : "2022-09-21T19:23:16Z"
 }

@@ -28,18 +28,21 @@ This repository contains sample commands and documentation to write your own one
 - [Apps](#apps)
   - [Agenda](#agenda)
   - [Amphetamine](#amphetamine)
+  - [Baremetrics](#baremetrics)
   - [Bear](#bear)
   - [Cleanshot](#cleanshot)
   - [Craft](#craft)
   - [DND Me](#dnd-me)
   - [Deepl](#deepl)
   - [Devutils](#devutils)
+  - [Downie](#downie)
   - [Espanso](#espanso)
   - [Evernote](#evernote)
   - [ExpressVPN](#expressvpn)
   - [Fantastical](#fantastical)
   - [Ferdi](#ferdi)
   - [Focus](#focus)
+  - [GoodLinks](#goodlinks)
   - [HazeOver](#hazeover)
   - [Hyper](#hyper)
   - [Lungo](#lungo)
@@ -168,6 +171,16 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/amphetamine/images/amphetamine.png" width="20" height="20"> | [End Session](apps/amphetamine/amphetamine-off.applescript) | Stop Current Amphetamine Session | [James Lyons](https://github.com/jamesjlyons) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/amphetamine/images/amphetamine.png" width="20" height="20"> | [Start Default Session](apps/amphetamine/amphetamine-on.applescript) | Start Default Amphetamine Session | [James Lyons](https://github.com/jamesjlyons) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
 
+#### Baremetrics
+
+| Icon | Title | Description | Author | Args | Templ | Lang |
+| :--: | ----- | ----------- | :----: | :--: | :---: | :--: |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Annual Recurring Revenue](apps/baremetrics/get-arr.sh) | Display Annual Recurring Revenue (ARR) | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Average Revenue Per User](apps/baremetrics/get-arpu.sh) | Display Average revenue per user (ARPU) | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Lifetime Value](apps/baremetrics/get-ltv.sh) | Display Lifetime Value (LTV) | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Monthly Recurring Revenue](apps/baremetrics/get-mrr.sh) | Display Monthly Recurring Revenue (MRR) | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Revenue](apps/baremetrics/simple-dashboard.sh) | Display Revenue Dashboard | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+
 #### Bear
 
 | Icon | Title | Description | Author | Args | Templ | Lang |
@@ -258,6 +271,12 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/devutils/images/devutils.png" width="20" height="20"> | [XML Beautify/Minify](apps/devutils/xmlformatter.sh) | Beautify or minify your current clipboard as XML | [DevUtils.app](https://devutils.app) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/devutils/images/devutils.png" width="20" height="20"> | [YAML to JSON](apps/devutils/yaml2json.sh) | Convert your current clipboard from YAML to JSON | [DevUtils.app](https://devutils.app) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
 
+#### Downie
+
+| Icon | Title | Description | Author | Args | Templ | Lang |
+| :--: | ----- | ----------- | :----: | :--: | :---: | :--: |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/downie/images/downie.png" width="20" height="20"> | [Download Video](apps/downie/download-video.sh) | Download video from Pasteboard link | [Clu Soh](https://twitter.com/designedbyclu) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+
 #### Espanso
 
 | Icon | Title | Description | Author | Args | Templ | Lang |
@@ -311,6 +330,20 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/focus/images/focus-logo.png" width="20" height="20"> | [Stop Focus Session (Unfocus)](apps/focus/focus-stop-session.sh) | Stop the current focus session. | [Ernest Ojeh](https://github.com/namzo) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/focus/images/focus-logo.png" width="20" height="20"> | [Take 5 Minutes Break](apps/focus/focus-start-break-5.sh) | Take 5 minutes break. | [Ernest Ojeh](https://github.com/namzo) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/focus/images/focus-logo.png" width="20" height="20"> | [Toggle Focus Session](apps/focus/focus-toggle-focus.sh) | Toggle between start session (untimed) and stop session. | [Ernest Ojeh](https://github.com/namzo) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+
+#### GoodLinks
+
+| Icon | Title | Description | Author | Args | Templ | Lang |
+| :--: | ----- | ----------- | :----: | :--: | :---: | :--: |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Open Last Unread Link](apps/goodlinks/goodlinks-last-unread-link.sh) | Open the last unread link in the GoodLinks app | [Filip Chabik](https://github.com/hadret) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Open Link](apps/goodlinks/goodlinks-open-link.sh) | Open a link in the GoodLinks app | [Filip Chabik](https://github.com/hadret) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Open Random Unread Link](apps/goodlinks/goodlinks-random-unread-link.sh) | Open a random unread link in the GoodLinks app | [Filip Chabik](https://github.com/hadret) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Save Link](apps/goodlinks/goodlinks-save-link.sh) | Saves a new link to GoodLinks | [Filip Chabik](https://github.com/hadret) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Show Read List](apps/goodlinks/goodlinks-read-list.sh) | Show Read list in the GoodLinks app | [Filip Chabik](https://github.com/hadret) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Show Starred List](apps/goodlinks/goodlinks-starred-list.sh) | Show Starred list in the GoodLinks app | [Filip Chabik](https://github.com/hadret) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Show Tag](apps/goodlinks/goodlinks-tagged-links.sh) | Show links tagged with the specified tag in the GoodLinks app | [Filip Chabik](https://github.com/hadret) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Show Unread List](apps/goodlinks/goodlinks-unread-list.sh) | Show Unread list in the GoodLinks app | [Filip Chabik](https://github.com/hadret) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/goodlinks/images/goodlinks.png" width="20" height="20"> | [Show Untagged List](apps/goodlinks/goodlinks-untagged-list.sh) | Show Untagged list in the GoodLinks app | [Filip Chabik](https://github.com/hadret) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
 
 #### HazeOver
 
@@ -646,6 +679,7 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/browsing/./images/shlink.png" width="20" height="20"> | [Create Short URL](browsing/shlink-create-short-url.template.sh) | Create a short URL using Shlink | [Eliot Hertenstein](https://github.com/eIiot) | ✅ | ✅ | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🥽 | [Current Website to Private Browser](browsing/to-private-browsing.sh) | Open the current site in a private browser | [raulanatol](https://github.com/raulanatol) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/browsing/images/outline.png" width="20" height="20"> | [Go to Outline](browsing/go-to-outine.sh) | Open the website at Outline | [Ronan Rodrigo Nunes](https://ronanrodrigo.dev) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 🌐 | [New Browser Window](browsing/new-browser-window.sh) | Open new window in default browser | [Levi Nelson](https://github.com/LeviticusNelson) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/browsing/images/peekalink-logo.png" width="20" height="20"> | [Peek a link](browsing/peekalink.template.sh) | Use [Peekalink.io](https://peekalink.io) API to peek specified URL. | [Caleb Stauffer](https://github.com/crstauf) | ✅ | ✅ | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🖼️ | [Screenshot Website](browsing/website-screenshots.sh) | Takes screenshots of the entered URL using [`pageres`](https://github.com/sindresorhus/pageres) and saves it to the Desktop. | [Caleb Stauffer](https://github.com/crstauf) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🔗 | [Shorten URL From Clipboard](browsing/shorten-url.sh) | Shorten the URL in your Clipboard with Tiny URL. | [Thomas Paul Mann](https://github.com/thomaspaulmann) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
@@ -731,6 +765,7 @@ This repository contains sample commands and documentation to write your own one
 
 | Icon | Title | Description | Author | Args | Templ | Lang |
 | :--: | ----- | ----------- | :----: | :--: | :---: | :--: |
+  | 📋 | [Clipboard to Markdown](conversions/clipboard-to-markdown.js) | Automatically take the content found in the clipboard and turn it into Markdown | [Alessandra Pereyra](https://github.com/alessandrapereyra) |  |  | <img src="images/icon-nodejs.png" width="20" height="20" title="Node"> |
   | 🎨 | [Color Conversion](conversions/color-conversion.sh) | Convert color formats (e.g. #FFEEFF -> rgba(255,238,255,1) | [quelhasu](https://github.com/quelhasu) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🗂 | [Column to Comma](conversions/column-to-comma.sh) | Converts column to comma separated list. | Raycast |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | ⏱ | [Convert Epoch to Human-Readable Date](conversions/epoch-to-human-date.sh) | Convert epoch to human-readable date. | [Siyuan Zhang](https://github.com/kastnerorz) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
@@ -1132,6 +1167,7 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/media/tidal/images/tidal-logo.png" width="20" height="20"> | [Pause](media/tidal/tidal-pause.applescript) | Pause the current track in Tidal. | [Charles Harries](https://github.com/charlesharries) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/media/tidal/images/tidal-logo.png" width="20" height="20"> | [Play](media/tidal/tidal-play.applescript) | Play the current track in Tidal. | [Charles Harries](https://github.com/charlesharries) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/media/tidal/images/tidal-logo.png" width="20" height="20"> | [Previous Track](media/tidal/tidal-previous-track.applescript) | Skip back to the previous track in Tidal. | [Charles Harries](https://github.com/charlesharries) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/media/tidal/images/tidal-logo.png" width="20" height="20"> | [Toggle Play/Pause](media/tidal/tidal.applescript) | Play/Pause Tidal | [Cebrail AKTAS](https://github.com/AktasC) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
 
 #### foobar2000
 
@@ -1426,6 +1462,7 @@ This repository contains sample commands and documentation to write your own one
   | 📦 | [Bundlephobia cost](web-searches/bundlephobia.sh) | N/A | [Zander Martineau](https://zander.wtf) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | ❓ | [Caniuse.com search](web-searches/caniuse.sh) | N/A | [Zander Martineau](https://zander.wtf) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🌦 | [Check Weather](web-searches/check-weather.sh) | N/A | [Jakub Lanski](https://github.com/jaklan) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 🚚 | [Clipboard to 17TRACK](web-searches/clipboard-to-17track.js) | Open 17TRACK with the tracking code found in the clipboard | [Alessandra Pereyra](https://github.com/alessandrapereyra) |  |  | <img src="images/icon-nodejs.png" width="20" height="20" title="Node"> |
   | 🪙 | [CoinMarketCap Search](web-searches/search-coinmarketcap.sh) | Searches coinmarketcap currencies. | [Benedict Neo](https://github.com/benthecoder) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/images/hunter.png" width="20" height="20"> | [Find Email Address With Hunter](web-searches/hunter.sh) | Find emails using hunter.io | [Tanguy Le Stradic](https://github.com/tanguyls) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/web-searches/images/giphy.png" width="20" height="20"> | [Giphy search](web-searches/giphy.sh) | N/A | [Zander Martineau](https://zander.wtf) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
@@ -1498,6 +1535,7 @@ This repository contains sample commands and documentation to write your own one
 
 | Icon | Title | Description | Author | Args | Templ | Lang |
 | :--: | ----- | ----------- | :----: | :--: | :---: | :--: |
+  | 📖 | [Dictionary Lookup](writing/dictionary-lookup.swift) | Directly use macOS Dictionary | [Alessandra Pereyra](https://github.com/alessandrapereyra) | ✅ |  | <img src="images/icon-swift.png" width="20" height="20" title="Swift"> |
   | 🤖 | [Word Count](writing/word-count.sh) | Counts the number of words of the text in the clipboard | [Benny Wong](https://bwong.net) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
 
 ## Community
