@@ -10737,6 +10737,34 @@
             {
               "authors" : [
                 {
+                  "name" : "Leo Voon",
+                  "url" : "https:\/\/github.com\/leovoon"
+                }
+              ],
+              "createdAt" : "2023-03-31T09:30:18+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "Rename your profile in Zoom Meeting App (Mac Only) and cliclick.",
+              "filename" : "rename-profile.applescript",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/zoom-logo.png"
+              },
+              "identifier" : "ff7531c3b095eb59465663d7b2e5626b",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Zoom",
+              "path" : "communication\/zoom\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Rename Profile",
+              "updatedAt" : "2023-03-31T03:48:28+00:00"
+            },
+            {
+              "authors" : [
+                {
                   "name" : "Luigi Cardito",
                   "url" : "https:\/\/github.com\/lcardito"
                 },
@@ -14236,6 +14264,40 @@
           ]
         },
         {
+          "name" : "Eudic",
+          "path" : "eudic",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "jingyi",
+                  "url" : "https:\/\/jingyi.blog"
+                }
+              ],
+              "createdAt" : "2023-02-25T09:21:48+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "look up in eudic",
+              "filename" : "look-up-in-eudic.applescript",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : ".\/images\/eudic.png"
+              },
+              "identifier" : "0d031b91eae5648603862a92b89d0ef5",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Eudic",
+              "path" : "apps\/eudic\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Look up Word",
+              "updatedAt" : "2023-02-25T09:21:48+08:00"
+            }
+          ]
+        },
+        {
           "name" : "One Thing",
           "path" : "one-thing",
           "scriptCommands" : [
@@ -16090,7 +16152,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Create Task",
-              "updatedAt" : "2022-07-22T06:29:42-04:00"
+              "updatedAt" : "2023-03-18T04:02:12+03:00"
             },
             {
               "authors" : [
@@ -22445,24 +22507,9 @@
   ],
   "languages" : [
     {
-      "displayName" : "Python",
-      "icon" : "icon-python.png",
-      "name" : "python"
-    },
-    {
-      "displayName" : "Swift",
-      "icon" : "icon-swift.png",
-      "name" : "swift"
-    },
-    {
       "displayName" : "Bash",
       "icon" : "icon-bash.png",
       "name" : "bash"
-    },
-    {
-      "displayName" : "AppleScript",
-      "icon" : "icon-applescript.png",
-      "name" : "applescript"
     },
     {
       "displayName" : "Node",
@@ -22473,11 +22520,26 @@
       "displayName" : "Ruby",
       "icon" : "icon-ruby.png",
       "name" : "ruby"
+    },
+    {
+      "displayName" : "AppleScript",
+      "icon" : "icon-applescript.png",
+      "name" : "applescript"
+    },
+    {
+      "displayName" : "Swift",
+      "icon" : "icon-swift.png",
+      "name" : "swift"
+    },
+    {
+      "displayName" : "Python",
+      "icon" : "icon-python.png",
+      "name" : "python"
     }
   ],
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 781,
-  "updatedAt" : "2023-02-22T05:19:45Z"
+  "totalScriptCommands" : 783,
+  "updatedAt" : "2023-03-31T03:48:28Z"
 }
