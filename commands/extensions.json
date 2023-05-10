@@ -4059,6 +4059,34 @@
         {
           "authors" : [
             {
+              "name" : "nagauta",
+              "url" : "https:\/\/github.com\/nagauta"
+            }
+          ],
+          "createdAt" : "2023-05-04T00:27:11+09:00",
+          "currentDirectoryPath" : null,
+          "description" : "Get total usage of OpenAI API",
+          "filename" : "open-ai-usage.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "💲"
+          },
+          "identifier" : "0ddcc5df2535bb2a723ebcd790f2e937",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "inline",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "dashboard\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Check Usage of OpenAI API",
+          "updatedAt" : "2023-05-04T14:08:10+09:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Clu Soh",
               "url" : "https:\/\/github.com\/designedbyclu"
             }
@@ -12153,6 +12181,34 @@
           "schemaVersion" : 1,
           "title" : "Search in Emojipedia",
           "updatedAt" : "2021-05-07T07:58:55+02:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Daniel Sieradski",
+              "url" : "https:\/\/github.com\/selfagency"
+            }
+          ],
+          "createdAt" : "2023-04-20T10:30:42-04:00",
+          "currentDirectoryPath" : null,
+          "description" : null,
+          "filename" : "opensecrets.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "images\/opensecrets.png"
+          },
+          "identifier" : "38597aea679968985276b287c7860174",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Web Searches",
+          "path" : "web-searches\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Search OpenSecrets.org",
+          "updatedAt" : "2023-04-24T06:57:26+00:00"
         },
         {
           "authors" : [
@@ -22507,14 +22563,9 @@
   ],
   "languages" : [
     {
-      "displayName" : "Bash",
-      "icon" : "icon-bash.png",
-      "name" : "bash"
-    },
-    {
-      "displayName" : "Node",
-      "icon" : "icon-nodejs.png",
-      "name" : "node"
+      "displayName" : "AppleScript",
+      "icon" : "icon-applescript.png",
+      "name" : "applescript"
     },
     {
       "displayName" : "Ruby",
@@ -22522,9 +22573,9 @@
       "name" : "ruby"
     },
     {
-      "displayName" : "AppleScript",
-      "icon" : "icon-applescript.png",
-      "name" : "applescript"
+      "displayName" : "Node",
+      "icon" : "icon-nodejs.png",
+      "name" : "node"
     },
     {
       "displayName" : "Swift",
@@ -22535,11 +22586,16 @@
       "displayName" : "Python",
       "icon" : "icon-python.png",
       "name" : "python"
+    },
+    {
+      "displayName" : "Bash",
+      "icon" : "icon-bash.png",
+      "name" : "bash"
     }
   ],
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 783,
-  "updatedAt" : "2023-03-31T03:48:28Z"
+  "totalScriptCommands" : 785,
+  "updatedAt" : "2023-05-08T06:42:08Z"
 }
