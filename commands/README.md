@@ -29,6 +29,7 @@ This repository contains sample commands and documentation to write your own one
   - [Agenda](#agenda)
   - [Amphetamine](#amphetamine)
   - [Baremetrics](#baremetrics)
+  - [Bartender](#bartender)
   - [Bear](#bear)
   - [Chatgpt](#chatgpt)
   - [Cleanshot](#cleanshot)
@@ -64,6 +65,7 @@ This repository contains sample commands and documentation to write your own one
   - [Plash](#plash)
   - [Playground](#playground)
   - [Pulse Secure](#pulse-secure)
+  - [Quip](#quip)
   - [Raycast](#raycast)
   - [Reminders](#reminders)
   - [Safari](#safari)
@@ -182,6 +184,12 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Lifetime Value](apps/baremetrics/get-ltv.sh) | Display Lifetime Value (LTV) | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Monthly Recurring Revenue](apps/baremetrics/get-mrr.sh) | Display Monthly Recurring Revenue (MRR) | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/baremetrics/images/baremetrics.png" width="20" height="20"> | [Revenue](apps/baremetrics/simple-dashboard.sh) | Display Revenue Dashboard | [Valentin Chrétien](https://github.com/valentinchrt) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+
+#### Bartender
+
+| Icon | Title | Description | Author | Args | Templ | Lang |
+| :--: | ----- | ----------- | :----: | :--: | :---: | :--: |
+  | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/bartender/images/bartender-icon.png" width="20" height="20"> | [Search Bartender](apps/bartender/bartender-search.applescript) | Perform a quick search of Menu Bar Items, in Bartender 4 | Raycast | ✅ |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
 
 #### Bear
 
@@ -505,6 +513,13 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/pulse-secure/images/pulse-secure.png" width="20" height="20"> | [Resume](apps/pulse-secure/pulse-secure-resume.applescript) | Resume the suspended connection. | [Jakub Lanski](https://github.com/jaklan) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/apps/pulse-secure/images/pulse-secure.png" width="20" height="20"> | [Suspend](apps/pulse-secure/pulse-secure-suspend.applescript) | Suspend the active connection. | [Jakub Lanski](https://github.com/jaklan) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
 
+#### Quip
+
+| Icon | Title | Description | Author | Args | Templ | Lang |
+| :--: | ----- | ----------- | :----: | :--: | :---: | :--: |
+  |  | [Set up Quip commands](apps/quip/set-up-quip-commands.py) | Create script commands for creating Quip documents, based on the configuration in quip_config.ini. | [diego_zamboni](https://raycast.com/diego_zamboni) |  |  | <img src="images/icon-python.png" width="20" height="20" title="Python"> |
+  |  | [{{commandtitle}}](apps/quip/quip-new.template.py) | Configure your Quip API token and other defaults in quip_config.ini | [zzamboni](https://raycast.com/zzamboni) | ✅ | ✅ | <img src="images/icon-python.png" width="20" height="20" title="Python"> |
+
 #### Raycast
 
 | Icon | Title | Description | Author | Args | Templ | Lang |
@@ -704,6 +719,7 @@ This repository contains sample commands and documentation to write your own one
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/browsing/images/git-io.png" width="20" height="20"> | [Shorten URL from GitHub](browsing/git-io.sh) | Shorten any github.com URL | [Astrit](https://github.com/astrit) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🔗 | [Shorten URL with Bitly](browsing/shorten-url-bitly.template.sh) | Transform the clipboard contents to a short Bitly URL | [Nitin Gupta](https://twitter.com/gniting) |  | ✅ | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🔗 | [Shorten URL with Emojis](browsing/short-url-emoji.sh) | Transform the clipboard contents to a short Emoji URL | [Samuel Henry](https://bne.sh) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 📹 | [Youtube Shorts in video player](browsing/Youtube Shorts in video player.sh) | Opens current Youtube Shorts video in the normal video player by replacing "/shorts/" with "/v/" in the url. | [Kailash Yellareddy](https://github.com/kyellareddy) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
 
 ## Communication
 
@@ -712,6 +728,7 @@ This repository contains sample commands and documentation to write your own one
   | 🔐 | [2FA from iMessages](communication/imessage-2fa.sh) | Get most recent two-factor authentication code from iMessages. | [Caleb Stauffer](https://github.com/crstauf) and [Thiago Holanda](https://twitter.com/tholanda) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 📱 | [Call with iPhone](communication/call-with-iphone.sh) | Place a telephone call via your iPhone on Wi-Fi. | [Alexander JH Steffen](https://github.com/alexjsteffen) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🔐 | [Generate Passphrase](communication/xkcdpass.sh) | Use [xkcdpass](https://github.com/redacted/XKCD-password-generator) to create a passphrase. | [Caleb Stauffer](https://github.com/crstauf) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 🤡 | [Let Me Google That](communication/let-me-google-that.sh) | Let Me Google That For You | [Leo Fritsch](https://github.com/leofritsch) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🗣 | [Say](communication/say.sh) | Convert text to audible speech. | [Felipe Turcheti](https://felipeturcheti.com) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/communication/images/doppler-logo.png" width="20" height="20"> | [Share Secret from Clipboard](communication/share-secret-doppler.py) | Share secret securely using https://share.doppler.com/. | [Petr Nikolaev](https://github.com/PitNikola) | ✅ |  | <img src="images/icon-python.png" width="20" height="20" title="Python"> |
 
@@ -795,6 +812,7 @@ This repository contains sample commands and documentation to write your own one
   | 🗂 | [Column to Comma](conversions/column-to-comma.sh) | Converts column to comma separated list. | Raycast |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | ⏱ | [Convert Epoch to Human-Readable Date](conversions/epoch-to-human-date.sh) | Convert epoch to human-readable date. | [Siyuan Zhang](https://github.com/kastnerorz) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | ⏱ | [Convert Human-Readable Date To Epoch](conversions/human-date-to-epoch.sh) | Convert human-readable date to timestamp epoch. | [Siyuan Zhang](https://github.com/kastnerorz) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 📋 | [Convert Raw HTML to Rich Text on Clipboard](conversions/raw-html-to-rich-text-clipboard.sh) | This script will convert raw HTML on your clipboard to rich text. It requires pandoc to be installed on your system. | [Michael Bianco](https://github.com/iloveitaly) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 📹 | [Create GIF from video](conversions/create-gif-from-video.py) | Create a GIF from video, by default it takes the last screen record video | [Quentin Eude](https://github.com/qeude) | ✅ |  | <img src="images/icon-python.png" width="20" height="20" title="Python"> |
   | 🎨 | [Hex to RGB](conversions/hex-to-rgb.sh) | Convert hexadecimal color value to RGB value. | [Caleb Stauffer](https://github.com/crstauf) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🎨 | [Hex to RGBA](conversions/hex-to-rgba.sh) | Convert hexadecimal color value to RGBA value. | [Caleb Stauffer](https://github.com/crstauf) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
@@ -1005,6 +1023,7 @@ This repository contains sample commands and documentation to write your own one
   | <picture><source srcset="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo-iconDark.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo.png" width="20" height="20"></picture> | [Open Pull Requests](developer-utils/github/github-open-pull-requests.template.rb) | Display number of open pull requests | [Faye Sipiano](https://github.com/FSipiano) |  | ✅ | <img src="images/icon-ruby.png" width="20" height="20" title="Ruby"> |
   | <picture><source srcset="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo-iconDark.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo.png" width="20" height="20"></picture> | [Open Pull Requests page](developer-utils/github/github-open-pull-requests-page.sh) | Open your GitHub pull requests page | [Faye Sipiano](https://github.com/FSipiano) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | ⭐️ | [Repository Statistics](developer-utils/github/github-repository-stars.template.rb) | Show statistics of your GitHub repository. | [Thomas Paul Mann](https://github.com/thomaspaulmann) |  | ✅ | <img src="images/icon-ruby.png" width="20" height="20" title="Ruby"> |
+  | ⭐️ | [Repository Statistics](developer-utils/github/github-repository-stars_all_repos_template.rb) | Show statistics of your GitHub repositories. | [Valdir Junior](https://github.com/valdirjunior011 ) |  | ✅ | <img src="images/icon-ruby.png" width="20" height="20" title="Ruby"> |
   | <picture><source srcset="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo-iconDark.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo.png" width="20" height="20"></picture> | [Show Open Pull Requests](developer-utils/github/github-open-pull-requests-details.template.rb) | Display (detailed) GitHub pull requests | [Faye Sipiano](https://github.com/FSipiano) |  | ✅ | <img src="images/icon-ruby.png" width="20" height="20" title="Ruby"> |
   | <picture><source srcset="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo-iconDark.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo.png" width="20" height="20"></picture> | [Show Review Requests](developer-utils/github/github-review-requests.template.rb) | Display number of Pull Requests requesting your review | [Vince Picone](https://github.com/vpicone) |  | ✅ | <img src="images/icon-ruby.png" width="20" height="20" title="Ruby"> |
   | <picture><source srcset="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo-iconDark.png" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/developer-utils/github/images/github-logo.png" width="20" height="20"></picture> | [Unread Notifications](developer-utils/github/github-unread-notifications.template.sh) | Display (detailed) number of unread GitHub notifications. | [Caleb Stauffer](https://github.com/crstauf) |  | ✅ | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
@@ -1422,10 +1441,12 @@ This repository contains sample commands and documentation to write your own one
   | ⚠️ | [Kill Running Process](system/kill-process.sh) | Force kill a running process | [Gustavo Santana](https://github.com/gumadeiras) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 📈 | [Largest CPU Process](system/largest-cpu-process.sh) | Report process with largest system CPU usage. | [Caleb Stauffer](https://github.com/crstauf) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 📈 | [Largest RAM Process](system/largest-ram-process.sh) | Report process with largest system RAM usage. | [Caleb Stauffer](https://github.com/crstauf) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
+  | 🔋 | [Low Power Mode](system/Low Power Mode.sh) | N/A | [Kailash Yellareddy](https://github.com/kyellareddy) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/system/images/minimize-window.png" width="20" height="20"> | [Minimize All Windows](system/minimize-all-windows.applescript) | This script minimizes all windows of currently running apps | [Ernest Ojeh](https://github.com/namzo) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
   | 🌵 | [Modify File Extension](system/modify-extension.sh) | Batch modify the file in the current directory or the specified extension of the selected file | [LokHsu](https://github.com/lokhsu) | ✅ |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🗑 | [Move Desktop to Trash](system/move-desktop-to-trash.applescript) | Empty the desktop. | [Seypopi](https://github.com/Seypopi) |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
   | <img src="https://raw.githubusercontent.com/raycast/script-commands/master/commands/system/images/move-downloads-to-trash.png" width="20" height="20"> | [Move Downloads to Trash](system/move-downloads-to-trash.applescript) | N/A | Jax0rz |  |  | <img src="images/icon-applescript.png" width="20" height="20" title="AppleScript"> |
+  |  | [Network Info](system/Network Info.sh) | N/A | [Kailash Yellareddy](https://github.com/kyellareddy) |  |  | <img src="images/icon-python.png" width="20" height="20" title="Python"> |
   | 🌐 | [Network Quality](system/network-quality.sh) | N/A | [Archie Lacoin](https://github.com/pomdtr) and [LanikSJ](https://github.com/LanikSJ) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 📶 | [Network Status](system/network-status.sh) | Get current network connections. | [Alexandru Turcanu](https://github.com/Pondorasti) |  |  | <img src="images/icon-bash.png" width="20" height="20" title="Bash"> |
   | 🖼 | [OCR](system/ocr.swift) | Use macOS Vision API Identification pictures, if it contain a QR code, Copy the QR code content to the clipboard, If do not include QR codes, identify text content and supplement to clipboard | [zhe](https://github.com/wmszhe) |  |  | <img src="images/icon-swift.png" width="20" height="20" title="Swift"> |
