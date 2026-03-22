@@ -331,7 +331,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "Rich Text to Markdown",
-          "updatedAt" : "2021-07-23T17:21:58-04:00"
+          "updatedAt" : "2024-08-28T20:37:53+08:00"
         },
         {
           "authors" : null,
@@ -1297,6 +1297,34 @@
         {
           "authors" : [
             {
+              "name" : "Yasutaka Nishii",
+              "url" : "https:\/\/github.com\/ystknsh"
+            }
+          ],
+          "createdAt" : "2024-08-29T16:26:42+09:00",
+          "currentDirectoryPath" : null,
+          "description" : "Open multiple websites on Safari using list of URLs",
+          "filename" : "open-multiple-websites-on-safari.template.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📚"
+          },
+          "identifier" : "be278c484ca03c82e901a345ff6e6b72",
+          "isTemplate" : true,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Browsing",
+          "path" : "browsing\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Open Multiple Websites on Safari",
+          "updatedAt" : "2024-09-03T11:24:41Z"
+        },
+        {
+          "authors" : [
+            {
               "name" : "raulanatol",
               "url" : "https:\/\/github.com\/raulanatol"
             }
@@ -2150,6 +2178,34 @@
           "schemaVersion" : 1,
           "title" : "Open Downloads",
           "updatedAt" : "2021-04-28T11:35:25-04:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Chris Bailey",
+              "url" : "https:\/\/raycast.com\/that70schris"
+            }
+          ],
+          "createdAt" : "2024-08-13T00:40:38-04:00",
+          "currentDirectoryPath" : null,
+          "description" : "Easily hide your foremost application",
+          "filename" : "hide-application.applescript",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🫥"
+          },
+          "identifier" : "47f61692f25fabb33a1748ded306439c",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Navigation",
+          "path" : "navigation\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Hide Current Application",
+          "updatedAt" : "2024-08-13T00:40:38-04:00"
         }
       ]
     },
@@ -3974,6 +4030,31 @@
         {
           "authors" : [
             {
+              "name" : "Samuel Barton",
+              "url" : "https:\/\/github.com\/samueldbarton"
+            }
+          ],
+          "createdAt" : "2024-11-18T09:32:56-06:00",
+          "currentDirectoryPath" : null,
+          "description" : "Calculate the CAGR between \"from\" and \"to\" values over given \"years,\" then copy the result.",
+          "filename" : "calculate-CAGR.sh",
+          "hasArguments" : true,
+          "icon" : null,
+          "identifier" : "5acd1b95964396ecfbe1aee4841ddb0a",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "compact",
+          "needsConfirmation" : null,
+          "packageName" : "Math",
+          "path" : "math\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Calculate CAGR Percentage",
+          "updatedAt" : "2024-11-18T09:32:56-06:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Matt Gleich",
               "url" : "https:\/\/mattglei.ch"
             }
@@ -4903,6 +4984,34 @@
         {
           "authors" : [
             {
+              "name" : "Raphael-KR",
+              "url" : "https:\/\/github.com\/Raphael-KR"
+            }
+          ],
+          "createdAt" : "2025-08-23T18:49:50+09:00",
+          "currentDirectoryPath" : null,
+          "description" : "Toggle natural trackpad\/mouse scrolling setting for macOS 15.6.1+",
+          "filename" : "toggle-natural-scrolling-macos15.applescript",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🖱"
+          },
+          "identifier" : "3ccaeabe09d36538f01f592bc7b3e51e",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Toggle Natural Scrolling (macOS 15+)",
+          "updatedAt" : "2025-08-25T09:08:49Z"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Aaron Miller",
               "url" : "https:\/\/github.com\/aaronhmiller"
             }
@@ -4954,7 +5063,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "Dismiss Notifications",
-          "updatedAt" : "2023-05-08T06:42:50Z"
+          "updatedAt" : "2025-05-18T15:56:50-07:00"
         },
         {
           "authors" : [
@@ -5924,7 +6033,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "OCR",
-          "updatedAt" : "2022-07-22T17:53:33+08:00"
+          "updatedAt" : "2024-06-22T16:19:22+09:00"
         },
         {
           "authors" : [
@@ -5953,6 +6062,34 @@
           "schemaVersion" : 1,
           "title" : "Capture Screen Selection to Clipboard",
           "updatedAt" : "2021-08-07T19:28:35-07:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "StepaniaH",
+              "url" : "https:\/\/github.com\/StepaniaH"
+            }
+          ],
+          "createdAt" : "2024-12-16T23:44:40+08:00",
+          "currentDirectoryPath" : null,
+          "description" : "This is a simple Python script for recursively renaming video and picture files within a directory. Type the root directory's absolute path, and it will scan all the video and picture files in it and rename them according to the folder where they are located as the format `<folder_name>-<current_date (MMDD)>-<incremental_number>`.",
+          "filename" : "rename-videos-pictures.py",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "📂"
+          },
+          "identifier" : "360d8e4290996f7b2b40dc6e388e30f2",
+          "isTemplate" : false,
+          "language" : "python",
+          "mode" : "fullOutput",
+          "needsConfirmation" : null,
+          "packageName" : "Rename Videos Pictures",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Rename Video",
+          "updatedAt" : "2024-12-18T23:56:00+08:00"
         },
         {
           "authors" : [
@@ -6065,6 +6202,34 @@
           "schemaVersion" : 1,
           "title" : "Minimize All Windows",
           "updatedAt" : "2022-02-21T17:47:42+01:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "AndriiBarabash",
+              "url" : "https:\/\/github.com\/AndriiBarabash"
+            }
+          ],
+          "createdAt" : "2025-03-10T00:16:14+01:00",
+          "currentDirectoryPath" : null,
+          "description" : "Put your Mac to sleep (in X minutes).",
+          "filename" : "sleep-timer.applescript",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "😴"
+          },
+          "identifier" : "ff43a32961d94da6001ad37ab79dd032",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Sleep Timer",
+          "updatedAt" : "2025-03-10T10:57:38+01:00"
         },
         {
           "authors" : [
@@ -6209,6 +6374,34 @@
           "schemaVersion" : 1,
           "title" : "Toggle Bluetooth",
           "updatedAt" : "2021-01-11T18:50:50+01:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Vicent Gozalbes",
+              "url" : "https:\/\/github.com\/vigosan"
+            }
+          ],
+          "createdAt" : "2025-10-29T15:39:18+01:00",
+          "currentDirectoryPath" : null,
+          "description" : "Move selected files in Finder to Trash",
+          "filename" : "delete-selected-files.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🗑"
+          },
+          "identifier" : "af948d8e2733b1384754ecae8a626949",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Delete Selected Files",
+          "updatedAt" : "2025-10-29T15:39:18+01:00"
         },
         {
           "authors" : null,
@@ -6646,6 +6839,34 @@
         {
           "authors" : [
             {
+              "name" : "aaqifshafi",
+              "url" : "https:\/\/github.com\/aaqifshafi"
+            }
+          ],
+          "createdAt" : "2025-10-24T17:32:55+05:30",
+          "currentDirectoryPath" : null,
+          "description" : "Kill running processes on the given ports",
+          "filename" : "kill-a-process-on-port.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "🚫"
+          },
+          "identifier" : "71d24aef7a640392ef09a32800fd05e3",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "compact",
+          "needsConfirmation" : null,
+          "packageName" : "Kill A Process On Port",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Kill a process on PORT",
+          "updatedAt" : "2025-10-24T17:32:55+05:30"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Felipe Turcheti",
               "url" : "https:\/\/felipeturcheti.com"
             }
@@ -6670,6 +6891,34 @@
           "schemaVersion" : 1,
           "title" : "Flush DNS",
           "updatedAt" : "2021-06-14T14:36:05-03:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Angelos Michalopoulos",
+              "url" : null
+            }
+          ],
+          "createdAt" : "2024-11-18T17:33:08+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Get One-Time Password (OTP) from Apple Password Manager",
+          "filename" : "otp.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "🔑"
+          },
+          "identifier" : "7115fa08d182688291508d427a6ce246",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "One-Time Password",
+          "updatedAt" : "2024-11-18T17:33:08+02:00"
         },
         {
           "authors" : [
@@ -6855,6 +7104,34 @@
         {
           "authors" : [
             {
+              "name" : "Felipe Turcheti",
+              "url" : "https:\/\/felipeturcheti.com"
+            }
+          ],
+          "createdAt" : "2024-08-05T09:48:29-06:00",
+          "currentDirectoryPath" : null,
+          "description" : "Copy contents of selected items in Finder to the clipboard. If there's more than one file selected, they will be combined and added to the clipboard.",
+          "filename" : "copy-selection-to-clipboard.applescript",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "??"
+          },
+          "identifier" : "c76e2bb24d45b402577be451771a6171",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Copy Finder Selection to Clipboard",
+          "updatedAt" : "2024-08-05T09:48:29-06:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Yufei Kang",
               "url" : "kangyufei.net"
             },
@@ -6993,6 +7270,29 @@
         },
         {
           "authors" : null,
+          "createdAt" : "2025-09-05T10:08:41-05:00",
+          "currentDirectoryPath" : null,
+          "description" : "Copies a summary of today's meetings to the clipboard.",
+          "filename" : "meeting_summary_script.swift",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📝"
+          },
+          "identifier" : "3542086084234d14d5e94041c7c2915b",
+          "isTemplate" : false,
+          "language" : "swift",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Copy Meeting Summary",
+          "updatedAt" : "2025-09-05T10:08:41-05:00"
+        },
+        {
+          "authors" : null,
           "createdAt" : "2020-09-30T12:56:01+01:00",
           "currentDirectoryPath" : null,
           "description" : "Shuts down computer.",
@@ -7041,6 +7341,34 @@
           "schemaVersion" : 1,
           "title" : "Toggle Battery Charging",
           "updatedAt" : "2022-08-18T12:53:36Z"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "AlexGadd",
+              "url" : "https:\/\/raycast.com\/AlexGadd"
+            }
+          ],
+          "createdAt" : "2025-10-25T01:03:45+13:00",
+          "currentDirectoryPath" : null,
+          "description" : "Takes your clipboard then types each character in the clipboard",
+          "filename" : "paste-clipboard.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📋"
+          },
+          "identifier" : "b6b6c23a4d07188552b17cba337131f8",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Type Clipboard in Search",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Type Clipboard",
+          "updatedAt" : "2025-11-04T23:39:34+13:00"
         },
         {
           "authors" : null,
@@ -7238,6 +7566,41 @@
               "schemaVersion" : 1,
               "title" : "Connect",
               "updatedAt" : "2021-03-06T21:56:49-08:00"
+            }
+          ]
+        },
+        {
+          "name" : "Magic Keyboard Switcher",
+          "path" : "magic-keyboard-switcher",
+          "readme" : "system\/magic-keyboard-switcher\/README.md",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "blastik",
+                  "url" : "https:\/\/github.com\/blastik"
+                }
+              ],
+              "createdAt" : "2025-09-24T17:50:16+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Switch a single magic keyboard between computers",
+              "filename" : "magic-keyboard-switcher.template.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/logo.png"
+              },
+              "identifier" : "ebd6d04790272dd639e870be745a66db",
+              "isTemplate" : true,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "System",
+              "path" : "system\/magic-keyboard-switcher\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Magic Keyboard switcher",
+              "updatedAt" : "2025-09-24T17:59:07+02:00"
             }
           ]
         },
@@ -7682,6 +8045,53 @@
       ]
     },
     {
+      "name" : "Ai",
+      "path" : "ai",
+      "scriptCommands" : [
+
+      ],
+      "subGroups" : [
+        {
+          "name" : "Gemini",
+          "path" : "gemini",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Est7",
+                  "url" : "https:\/\/github.com\/est7"
+                },
+                {
+                  "name" : "Nimo Beeren",
+                  "url" : "https:\/\/github.com\/nimobeeren"
+                }
+              ],
+              "createdAt" : "2025-04-24T11:38:46+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "Open Gemini in Chrome browser and submit a prompt with optional selected text as context",
+              "filename" : "gemini.js",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : ".\/images\/icon-gemini.svg"
+              },
+              "identifier" : "2a9c8b6698663cc8834ace7501bc9bec",
+              "isTemplate" : false,
+              "language" : "node",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Gemini",
+              "path" : "ai\/gemini\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Ask Gemini",
+              "updatedAt" : "2025-05-13T08:32:11Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name" : "Developer Utils",
       "path" : "developer-utils",
       "scriptCommands" : [
@@ -7972,6 +8382,34 @@
           "schemaVersion" : 1,
           "title" : "Is It Up?",
           "updatedAt" : "2023-02-21T22:56:29-05:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Andrii Barabash",
+              "url" : "https:\/\/github.com\/AndriiBarabash"
+            }
+          ],
+          "createdAt" : "2025-09-27T20:40:28+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Toggles an SSH SOCKS proxy tunnel on and off.",
+          "filename" : "toggle_ssh_proxy_tunnel.template.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🔒"
+          },
+          "identifier" : "aae74278107ffa5f34b3733eb2c8a813",
+          "isTemplate" : true,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Developer Utilities",
+          "path" : "developer-utils\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Toggle SSH SOCKS Tunnel",
+          "updatedAt" : "2025-09-29T13:44:50Z"
         },
         {
           "authors" : [
@@ -10260,6 +10698,96 @@
           ]
         },
         {
+          "name" : "Solana",
+          "path" : "solana",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "bjoerndotsol",
+                  "url" : "https:\/\/github.com\/bjoerndotsol"
+                }
+              ],
+              "createdAt" : "2025-11-09T12:49:22+04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Extract transaction from Blink endpoint in clipboard and replaces with the transaction",
+              "filename" : "solana-tx-blink-extract.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : ".\/images\/solana-logo.png"
+              },
+              "identifier" : "b6d5f4f47851592cfb80de671a69b6d6",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Solana",
+              "path" : "developer-utils\/solana\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Extract Transaction from Blink Response",
+              "updatedAt" : "2025-11-09T12:49:22+04:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "bjoerndotsol",
+                  "url" : "https:\/\/github.com\/bjoerndotsol"
+                }
+              ],
+              "createdAt" : "2025-11-09T12:49:22+04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Opens a Solana transaction in Solscan. Network: empty\/mainnet, d\/dev\/devnet, t\/test\/testnet",
+              "filename" : "solana-tx-details.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : ".\/images\/solana-logo.png"
+              },
+              "identifier" : "8d593a4cf4ef3adafe986a1c06b00909",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Solana",
+              "path" : "developer-utils\/solana\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "View Solana Transaction",
+              "updatedAt" : "2025-11-09T12:49:22+04:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "bjoerndotsol",
+                  "url" : "https:\/\/github.com\/bjoerndotsol"
+                }
+              ],
+              "createdAt" : "2025-11-09T12:49:22+04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Extracts the message from a signed Solana transaction and opens Explorer's Inspector with it.",
+              "filename" : "solana-tx-inspector.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : ".\/images\/solana-logo.png"
+              },
+              "identifier" : "a2218c35f59137757e59aa21f61cb1a0",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Solana",
+              "path" : "developer-utils\/solana\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Open in Solana Inspector",
+              "updatedAt" : "2025-11-09T12:49:22+04:00"
+            }
+          ]
+        },
+        {
           "name" : "GitHub",
           "path" : "github",
           "scriptCommands" : [
@@ -10603,7 +11131,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "S3 Download",
-              "updatedAt" : "2024-06-14T12:34:01Z"
+              "updatedAt" : "2024-09-17T11:36:59+02:00"
             },
             {
               "authors" : [
@@ -11426,7 +11954,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Generate Unique Address",
-              "updatedAt" : "2022-02-10T09:48:48+01:00"
+              "updatedAt" : "2024-07-14T22:23:53+08:00"
             }
           ]
         },
@@ -12081,6 +12609,34 @@
               "schemaVersion" : 1,
               "title" : "Search and Copy First Related Emoji",
               "updatedAt" : "2020-11-28T12:02:29-05:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Tomohiro Nishimura",
+                  "url" : "https:\/\/github.com\/Sixeight"
+                }
+              ],
+              "createdAt" : "2025-01-23T18:29:53+09:00",
+              "currentDirectoryPath" : null,
+              "description" : "Copy a random emoji to the clipboard.",
+              "filename" : "random-emoji.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "🎲"
+              },
+              "identifier" : "52479cec0740642d40a8902ee5efa1fe",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Emojis",
+              "path" : "communication\/emojis\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Random Emoji",
+              "updatedAt" : "2025-03-25T19:27:06+09:00"
             }
           ]
         },
@@ -13663,7 +14219,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "Search Google Maps",
-          "updatedAt" : "2022-11-17T10:35:57+01:00"
+          "updatedAt" : "2024-12-05T12:33:50+01:00"
         },
         {
           "authors" : [
@@ -13674,7 +14230,7 @@
           ],
           "createdAt" : "2021-07-13T21:10:54-07:00",
           "currentDirectoryPath" : null,
-          "description" : "Search for Script Commands in the [Unofficial Raycast Script Commands Marketplace](https:\/\/scriptcommands.com).",
+          "description" : "Search for Script Commands in the [Unofficial Raycast Script Commands Marketplace](https:\/\/scriptcommands.alexandru.so).",
           "filename" : "search-script-command-marketplace.sh",
           "hasArguments" : true,
           "icon" : {
@@ -13691,7 +14247,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "Search Script Command",
-          "updatedAt" : "2024-02-19T19:37:34-08:00"
+          "updatedAt" : "2024-12-04T11:52:04+01:00"
         },
         {
           "authors" : [
@@ -13804,6 +14360,34 @@
           "schemaVersion" : 1,
           "title" : "Search LinkedIn",
           "updatedAt" : "2021-01-24T20:18:06Z"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "lemorage",
+              "url" : "https:\/\/raycast.com\/lemorage"
+            }
+          ],
+          "createdAt" : "2024-09-19T08:42:28+08:00",
+          "currentDirectoryPath" : null,
+          "description" : "Search Rust documentation",
+          "filename" : "search-rust-docs.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "images\/rust.png"
+          },
+          "identifier" : "2f4472d80148aaadabf915529d6f68c9",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Web Searches",
+          "path" : "web-searches\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Search Rust Documentation",
+          "updatedAt" : "2024-09-19T08:42:28+08:00"
         },
         {
           "authors" : [
@@ -15518,6 +16102,36 @@
           ]
         },
         {
+          "name" : "Find My",
+          "path" : "find-my",
+          "readme" : "apps\/find-my\/README.md",
+          "scriptCommands" : [
+            {
+              "authors" : null,
+              "createdAt" : "2025-06-12T06:53:33-07:00",
+              "currentDirectoryPath" : null,
+              "description" : null,
+              "filename" : "fmp.js",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/find-my-icon.png"
+              },
+              "identifier" : "206851d53c58c074472f7acb20ceeb08",
+              "isTemplate" : false,
+              "language" : "node",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "FindMy",
+              "path" : "apps\/find-my\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Find My Phone (Auto Sound)",
+              "updatedAt" : "2025-06-12T06:53:33-07:00"
+            }
+          ]
+        },
+        {
           "name" : "Bear",
           "path" : "bear",
           "scriptCommands" : [
@@ -15750,6 +16364,40 @@
               "schemaVersion" : 1,
               "title" : "CaptchaFromMail",
               "updatedAt" : "2024-03-02T12:46:14+08:00"
+            }
+          ]
+        },
+        {
+          "name" : "Claude",
+          "path" : "claude",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Nimo Beeren",
+                  "url" : "https:\/\/github.com\/nimobeeren"
+                }
+              ],
+              "createdAt" : "2024-08-07T21:01:27+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Open Claude in Chrome browser and submit a prompt",
+              "filename" : "claude.js",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "✨"
+              },
+              "identifier" : "cd9356ee79829cf478bdcd127c673a0c",
+              "isTemplate" : false,
+              "language" : "node",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Claude",
+              "path" : "apps\/claude\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Ask Claude",
+              "updatedAt" : "2024-08-30T13:09:27Z"
             }
           ]
         },
@@ -17810,6 +18458,34 @@
             {
               "authors" : [
                 {
+                  "name" : "Michael Bianco",
+                  "url" : "https:\/\/github.com\/iloveitaly"
+                }
+              ],
+              "createdAt" : "2024-08-21T08:30:36-06:00",
+              "currentDirectoryPath" : null,
+              "description" : "Download the currently active tab's URL.",
+              "filename" : "safari-download-url.applescript",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/safari.png"
+              },
+              "identifier" : "3fe3287d74734aa1adaf454aa6be4dce",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Safari",
+              "path" : "apps\/safari\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Download Current URL",
+              "updatedAt" : "2024-08-30T13:02:53Z"
+            },
+            {
+              "authors" : [
+                {
                   "name" : "Thomas Paul Mann",
                   "url" : "https:\/\/github.com\/thomaspaulmann"
                 }
@@ -18319,6 +18995,10 @@
                 {
                   "name" : "Ross Zurowski",
                   "url" : "https:\/\/github.com\/rosszurowski"
+                },
+                {
+                  "name" : "Daniel Schoemer",
+                  "url" : "https:\/\/github.com\/quatauta"
                 }
               ],
               "createdAt" : "2021-06-14T15:33:18-04:00",
@@ -18340,7 +19020,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Switch Account",
-              "updatedAt" : "2021-06-14T15:33:18-04:00"
+              "updatedAt" : "2024-08-19T14:49:32+02:00"
             }
           ]
         },
@@ -20912,20 +21592,48 @@
         {
           "authors" : [
             {
+              "name" : "Muneeb Ajaz",
+              "url" : "https:\/\/github.com\/mianmuneebajaz"
+            }
+          ],
+          "createdAt" : "2025-11-28T22:05:40+05:00",
+          "currentDirectoryPath" : null,
+          "description" : "Get the current and next prayer times for a specific city and country.",
+          "filename" : "prayer-summary.template.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🕌"
+          },
+          "identifier" : "19dc8f6e68b90c17c70dd7ee3e05d5e6",
+          "isTemplate" : true,
+          "language" : "bash",
+          "mode" : "inline",
+          "needsConfirmation" : null,
+          "packageName" : "Culture",
+          "path" : "culture\/",
+          "refreshTime" : "2m",
+          "schemaVersion" : 1,
+          "title" : "Prayer Summary",
+          "updatedAt" : "2025-11-28T17:06:38Z"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Emircan Erkul",
               "url" : "https:\/\/emircanerkul.com"
             }
           ],
           "createdAt" : "2022-11-17T12:22:40+03:00",
           "currentDirectoryPath" : null,
-          "description" : "Prayer Times grabbed from the Diyanet's Official Website for people located in Türkiye.",
-          "filename" : "prayer-times-diyanet.sh",
+          "description" : "Prayer Times grabbed from the aladhan.com.",
+          "filename" : "prayer-times.sh",
           "hasArguments" : false,
           "icon" : {
             "dark" : null,
             "light" : "🕌"
           },
-          "identifier" : "64f8434e9317a2cfd699e4dfd8d4be86",
+          "identifier" : "ebda5e51cd4760fb9dbce650e41a9142",
           "isTemplate" : false,
           "language" : "bash",
           "mode" : "inline",
@@ -20934,8 +21642,8 @@
           "path" : "culture\/",
           "refreshTime" : null,
           "schemaVersion" : 1,
-          "title" : "Prayer Times (Diyanet)",
-          "updatedAt" : "2022-11-17T13:23:15+03:00"
+          "title" : "Prayer Times",
+          "updatedAt" : "2024-07-20T15:38:18+03:00"
         }
       ]
     },
@@ -21646,6 +22354,40 @@
               "schemaVersion" : 1,
               "title" : "Status",
               "updatedAt" : "2021-07-19T21:12:36+01:00"
+            }
+          ]
+        },
+        {
+          "name" : "QPDF",
+          "path" : "qpdf",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Nicklas Jakobsen",
+                  "url" : "https:\/\/github.com\/nicklasjm"
+                }
+              ],
+              "createdAt" : "2025-11-28T18:07:29+01:00",
+              "currentDirectoryPath" : null,
+              "description" : "Compress selected PDF files. Note: This script requires 'qpdf' to be installed via Homebrew.",
+              "filename" : "compress-pdf-qpdf.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "🗜️"
+              },
+              "identifier" : "ba848d41adad37a9407e0c61e56b545c",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "compact",
+              "needsConfirmation" : null,
+              "packageName" : "QPDF",
+              "path" : "productivity\/qpdf\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Compress PDF",
+              "updatedAt" : "2025-11-28T18:07:29+01:00"
             }
           ]
         },
@@ -23250,6 +23992,32 @@
           ]
         },
         {
+          "name" : "Lowfi",
+          "path" : "lowfi",
+          "scriptCommands" : [
+            {
+              "authors" : null,
+              "createdAt" : "2024-11-24T04:45:52+01:00",
+              "currentDirectoryPath" : null,
+              "description" : null,
+              "filename" : "lowfi.sh",
+              "hasArguments" : false,
+              "icon" : null,
+              "identifier" : "afcc05d7a53abe6543c98f59f23bb7e5",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "compact",
+              "needsConfirmation" : null,
+              "packageName" : "Music",
+              "path" : "media\/lowfi\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Lowfi",
+              "updatedAt" : "2024-12-11T20:08:12Z"
+            }
+          ]
+        },
+        {
           "name" : "Apple Tv",
           "path" : "apple-tv",
           "scriptCommands" : [
@@ -23675,11 +24443,6 @@
       "name" : "bash"
     },
     {
-      "displayName" : "Swift",
-      "icon" : "icon-swift.png",
-      "name" : "swift"
-    },
-    {
       "displayName" : "AppleScript",
       "icon" : "icon-applescript.png",
       "name" : "applescript"
@@ -23690,6 +24453,11 @@
       "name" : "node"
     },
     {
+      "displayName" : "Swift",
+      "icon" : "icon-swift.png",
+      "name" : "swift"
+    },
+    {
       "displayName" : "Python",
       "icon" : "icon-python.png",
       "name" : "python"
@@ -23698,6 +24466,6 @@
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 823,
-  "updatedAt" : "2024-06-14T12:34:01Z"
+  "totalScriptCommands" : 849,
+  "updatedAt" : "2025-11-28T17:08:40Z"
 }
